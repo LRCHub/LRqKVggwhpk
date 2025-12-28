@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Just the Two of Us",
+  "base_artist": "藤井 風",
+  "createdAt": "2025-12-28T20:50:55.341155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just the two of us",
+      "artist": "Davichi",
+      "has_synced": false,
+      "path": "select/01_Just_the_two_of_us_Davichi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "P9",
+      "has_synced": true,
+      "path": "select/02_Just_the_Two_of_Us_P9.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Pomplamoose",
+      "has_synced": true,
+      "path": "select/03_Just_the_Two_of_Us_Pomplamoose.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Cxxlion",
+      "has_synced": false,
+      "path": "select/04_Just_the_Two_of_Us_Cxxlion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/05_Just_the_Two_of_Us_AOA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Thin Lizzy",
+      "has_synced": true,
+      "path": "select/06_Just_The_Two_Of_Us_Thin_Lizzy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Bill Withers",
+      "has_synced": true,
+      "path": "select/07_Just_The_Two_Of_Us_Bill_Withers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Thin Lizzy",
+      "has_synced": true,
+      "path": "select/08_Just_the_Two_of_Us_Thin_Lizzy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Bill Withers",
+      "has_synced": true,
+      "path": "select/09_Just_the_Two_of_Us_Bill_Withers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/10_Just_the_Two_of_Us_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Jimmy Bondoc",
+      "has_synced": true,
+      "path": "select/11_Just_The_Two_Of_Us_Jimmy_Bondoc.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Ely Bruna",
+      "has_synced": false,
+      "path": "select/12_Just_the_Two_of_Us_Ely_Bruna.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just the two of us",
+      "artist": "Will Smith",
+      "has_synced": true,
+      "path": "select/13_Just_the_two_of_us_Will_Smith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Chubb Rock",
+      "has_synced": true,
+      "path": "select/14_Just_The_Two_Of_Us_Chubb_Rock.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Engelbert Humperdinck",
+      "has_synced": false,
+      "path": "select/15_Just_The_Two_Of_Us_Engelbert_Humperdinck.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Grover Washington",
+      "has_synced": true,
+      "path": "select/16_Just_the_Two_of_Us_Grover_Washington.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Grover Washington",
+      "has_synced": true,
+      "path": "select/17_Just_The_Two_Of_Us_Grover_Washington.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Will Smith",
+      "has_synced": true,
+      "path": "select/18_Just_The_Two_Of_Us_Will_Smith.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Just the Two of Us",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/19_Just_the_Two_of_Us_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Just The Two Of Us",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/20_Just_The_Two_Of_Us_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just The Two Of Us",
+      "artist": "fujii kaze",
+      "has_synced": false,
+      "path": "select/pl_01_Just_The_Two_Of_Us_fujii_kaze.txt"
+    }
+  ]
+}
